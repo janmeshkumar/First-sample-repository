@@ -1,0 +1,2 @@
+# First-sample-repository
+This is my repository creation on git hub, to check functionality of github and its usage. 
